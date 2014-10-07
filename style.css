@@ -1,0 +1,18 @@
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 13px;
+}
+
+#bglight{
+	background-image: url(/assets/img/background_white.jpg);
+}
+
+body#bgdark{
+	background-image: url(background.jpg);
+}
+
+h1{
+  font-size: 50px;
+  color: #FFF;
+}
+
